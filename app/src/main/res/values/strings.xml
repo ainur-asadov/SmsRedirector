@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sms Redirector</string>
+
+    <string name="title_groups">Группы</string>
+    <string name="title_create_group">Создать новую группу</string>
+    <string name="title_group">Группа</string>
+    <string name="title_edit">Редактирование</string>
+
+    <string name="text_add_group">Добавить группу</string>
+    <string name="question_add_group">Добавить группу?</string>
+    <string name="text_add">Добавить</string>
+    <string name="text_cancel">Отмена</string>
+    <string name="text_save">Сохранить</string>
+    <string name="text_group_added">Группа создана</string>
+    <string name="text_edit">Редактировать</string>
+    <string name="text_group_removed">Группа удалена</string>
+    <string name="text_data_changed">Данные изменены</string>
+
+    <string name="text_add_phone">Добавить номер</string>
+    <string name="text_phone_added">Номер добавлен</string>
+
+    <string name="title_no_group">Нет добавленных групп</string>
+    <string name="title_default">Уведомление</string>
+
+    <string name="hint_sender">Введите номер отправителя</string>
+    <string name="hint_pass">Введите номер получателя</string>
+    <string name="hint_name">Введите название группы</string>
+    <string name="hint_add_phone">Добавте номер получателя</string>
+    <string name="hint_error_save_group">Введите все данные</string>
+
+</resources>
